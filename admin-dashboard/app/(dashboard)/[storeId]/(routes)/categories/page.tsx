@@ -14,7 +14,7 @@ const CategoriesPage = async ({ params }: { params: { storeId: string } }) => {
     orderBy: {
       createdAt: "desc",
     },
-  })
+  });
 
   const formattedCategories: CategoryColumn[] = categories.map((item) => ({
     id: item.id,
