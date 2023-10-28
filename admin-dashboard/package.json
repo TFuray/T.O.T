@@ -25,7 +25,7 @@
     "cmdk": "^0.2.0",
     "date-fns": "^2.30.0",
     "lucide-react": "^0.279.0",
-    "next": "latest",
+    "next": "^14.0.0",
     "next-cloudinary": "^4.23.0",
     "react": "latest",
     "react-dom": "latest",
